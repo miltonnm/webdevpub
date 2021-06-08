@@ -1,0 +1,197 @@
+
+.body {
+    height: 100%;
+}
+
+.navbar {
+    text-align: top;
+}
+
+.hptext {
+    text-align: center;
+    padding-top: 250px;
+    font-size: 60px;
+    color: white;
+}
+.hptext2 {
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+.hptext3 {
+    text-align: center;
+    padding-top: 200px;
+    font-size: 45px;
+    color: white;
+}
+
+.background {
+    background-image: url("https://images.hdqwalls.com/download/small-memory-lp-1920x1080.jpg");
+    background-position: center;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 1800px;
+}
+
+.main-box {
+    display: flex;
+}
+
+@media only screen and (max-width: 600px){
+    #ooga {
+        color:green;
+    }
+}
+
+
+.fpimg1 {
+    width: 384px;
+    height: 288px;
+    margin-left: 250px;
+    border: 5px solid;
+}
+.fpimg2 {
+    width: 384px;
+    height: 288px;
+    margin-left: 200px;
+    margin-top: 200px;
+    border: 5px solid;
+}
+.fpimg3 {
+    width: 384px;
+    height: 288px;
+    margin-top: 430px;
+    margin-left: 250px; 
+    position: absolute;
+    border: 5px solid;
+}
+
+.fpimg4 {
+    width: 384px;
+    height: 288px;
+    margin-top: 580px;
+    margin-left: 835px;
+    position: absolute;
+    border: 5px solid;
+}
+
+
+#spimg1 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 50px;
+    margin-left: 33%;
+}
+.spimg11 {
+    filter: blur(20px);
+}
+#spimg2 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 50px;
+    margin-left: 66%;
+}
+#spimg3 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 50px;
+    margin-left: 100%;
+    
+}
+#spimg4 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 500px;
+
+}
+#spimg5 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid; 
+    margin-top: 500px;
+    margin-left: -1303px;
+
+}
+#spimg6 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 500px;
+    margin-left: -830px;
+}
+.tpimg1 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 950px;
+    margin-left: -830px;
+}
+.tpimg2 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 950px;
+    margin-left: -1301px;
+}
+.tpimg3 {
+    width: 345px;
+    height: 259px;
+    border: 5px solid;
+    margin-top: 950px;
+    margin-left: -352px;
+}
+#priceText {
+    margin-left: 250px;
+    font-size: 20px;
+    color: gray;
+}
+
+#aboutHead {
+    padding-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+#fillerText {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+#listHead {
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+#list {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+#green {
+    color: green;
+}
+
+.white {
+    color: white;
+}
+
+#biggerFont {
+    font-size: 25px;
+}
+
+#logoSize {
+    width: 64px;
+    height: 64px;
+}
+
+
